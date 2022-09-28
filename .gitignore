@@ -1,4 +1,5 @@
 # ignore folder
+*.xml
 research/
 image/
 일지/
@@ -7,3 +8,4 @@ note/
 발표모음/
 발표작업/
 raw_data/work_place
+raw_data/*.xml
